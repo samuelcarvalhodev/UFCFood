@@ -61,6 +61,7 @@
     cursor: pointer;
 }
 
+
 .link-return{
     text-decoration: none;
 
@@ -71,6 +72,7 @@
 
 
 }
+
  .input-div input{
     margin-left: auto;
     margin-right: auto;
@@ -99,3 +101,4 @@
     color: #fff;
     cursor: pointer;
 }
+

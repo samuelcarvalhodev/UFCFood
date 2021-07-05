@@ -42,6 +42,7 @@ function watchRegister(e){
     }
 }
 
+
 function showPassword(){
     var senha = document.getElementById('password');
     
@@ -62,3 +63,4 @@ function showConfirmePassword(){
         confirmeSenha.type = 'password'
     }
 }
+
